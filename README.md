@@ -42,6 +42,8 @@ In addition to `Employee`'s , `Intern` will also have:
 
   ### User input
 
+  ----VideoLink how to: https://drive.google.com/file/d/1QSwDHESoUa-rgcbPVdizb6Bp9soaapxH/view
+
 The user will be prompt to build an engineering team via cli. An engineering team consists of a manager, and any number of engineers and interns.
 
 ### Roster output
